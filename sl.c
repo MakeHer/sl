@@ -40,7 +40,8 @@
 #include <signal.h>
 #include <unistd.h>
 #include "sl.h"
-
+//I'm a comment
+//Let's break things ya'll
 void add_smoke(int y, int x);
 void add_man(int y, int x);
 int add_C51(int x);
